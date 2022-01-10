@@ -1,5 +1,5 @@
 # Welcome to the JDK!
-
+Just adding a little bit of my analysis.
 For build instructions please see the
 [online documentation](https://openjdk.java.net/groups/build/doc/building.html),
 or either of these files:
